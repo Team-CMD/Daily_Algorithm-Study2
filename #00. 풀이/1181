@@ -1,0 +1,11 @@
+N = int(input())
+s = []
+
+for i in range(N):
+    s.append(input())
+
+s = sorted(set(s))
+s.sort(key = len)
+
+for i in s:
+    print(i)
