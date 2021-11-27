@@ -1,0 +1,25 @@
+N = int(input())
+result = []
+seq = []
+push = 1
+state = 0
+
+for i in range(N):
+    num = int(input())
+
+    while num >= push:
+        seq.append(push)
+        result.append('+')
+        push += 1
+    
+    if seq[-1] == num:
+        del seq[-1]
+        result.append('-')
+    elif seq[-1] != num:
+        state = 1
+
+if state == 0:
+    for i in result:
+        print(i)
+else:
+    print("NO")
