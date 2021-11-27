@@ -1,0 +1,28 @@
+def search(ss, x):
+  return search_range( ss, x, range(len(ss)) )
+
+def search_range(ss, x, r):
+    if len(r) > 0:
+      mid = (r.start + r.stop) // 2 
+
+      if ss[mid] == x:
+        return 1
+
+      elif ss[mid] > x:
+        return search_range( ss, x, range(r.start, mid) )
+
+      else:
+        return search_range( ss, x, range(mid + 1, r.stop) )
+        
+    else:
+      return 0
+
+N = int(input())
+a = list(map(int, input().split()))
+M = int(input())
+x = list(map(int, input().split()))
+
+a.sort()
+
+for i in range(M):
+    print(search(a, x[i]))
