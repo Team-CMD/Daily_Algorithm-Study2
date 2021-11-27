@@ -37,7 +37,7 @@ ___
 |[PerfumedHandEssence](https://github.com/PerfumedHandEssence)|python, c, algorithm|[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyune99)](https://solved.ac/seunghyune99/)| CMD |
 |[skm0619](https://github.com/skm0619)| python | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sin1509)](https://solved.ac/sin1509/) | CMD |
 |[dbswp](https://github.com/dbswp)| python, web | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/) | CMD |
-|[MinSungKim](https://github.com/alstjd84)| python |[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh04231015)](https://solved.ac/lkh04231015/)| CMD |
+|[MinSungKim](https://github.com/alstjd84)| python |[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjd84)](https://solved.ac/alstjd84/)| CMD |
 |[naseonghyeon](https://github.com/naseonghyeon)| python, c |[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwntp1)](https://solved.ac/dwntp1/)| CMD |
 |[Syh1999](https://github.com/Syh1999) | python | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Syh1999)](https://solved.ac/Syh1999/) | CMD |
 
