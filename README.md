@@ -34,7 +34,7 @@ ___
 ## 🎫 Member
 | Member(github profile) | major skill | Achievement | Team |
 |:---------:|:---------:|:---------:|:-----:|
-|[PerfumedHandEssence](https://github.com/PerfumedHandEssence)|python, c, algorithm|[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyune99)](https://solved.ac/seunghyune99/)| CMD |
+|[Sungmin](https://github.com/sungmin-99)|python, c, algorithm|[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin9513)](https://solved.ac/sungmin9513/)| CMD |
 |[skm0619](https://github.com/skm0619)| python | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sin1509)](https://solved.ac/sin1509/) | CMD |
 |[dbswp](https://github.com/dbswp)| python, web | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/) | CMD |
 |[MinSungKim](https://github.com/alstjd84)| python |[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjd84)](https://solved.ac/alstjd84/)| CMD |
