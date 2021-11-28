@@ -39,7 +39,7 @@ ___
 |[dbswp](https://github.com/dbswp)| python, web | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/) | CMD |
 |[MinSungKim](https://github.com/alstjd84)| python |[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjd84)](https://solved.ac/alstjd84/)| CMD |
 |[naseonghyeon](https://github.com/naseonghyeon)| python, c |[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwntp1)](https://solved.ac/dwntp1/)| CMD |
-|[Syh1999](https://github.com/Syh1999) | python | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Syh1999)](https://solved.ac/Syh1999/) | CMD |
+|[Syh1999](https://github.com/Syh1999) | python | [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=younghun9999)](https://solved.ac/younghun9999/) | CMD |
 
 
 ___
