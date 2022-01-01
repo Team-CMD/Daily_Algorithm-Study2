@@ -1,0 +1,33 @@
+def gcd(x, y):
+    if x > y:
+        z = y
+    else:
+        z = x
+    gcd = 0
+    for i in range(2, z + 1):
+        if x % i == 0 and y % i == 0:
+            gcd = i
+    if gcd == 0:
+        return 1
+    return gcd
+
+def lcm(x, y):
+    if x > y:
+        z = x
+        m = y
+    else:
+        z = y
+        m = x
+    lcm = z
+    for i in range(x * z, z - 1, -z):
+        if i % m == 0:
+            lcm = i
+    return lcm
+
+a, b = map(int, input().split())
+print(gcd(a, b))
+print(lcm(a, b))
+for i in range(x * z, z - 1, -z):
+        if i % m == 0:
+            lcm = i
+    return lcm
