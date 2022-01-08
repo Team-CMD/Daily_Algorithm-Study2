@@ -1,0 +1,12 @@
+from itertools import combinations
+
+ans = 0
+n, m = map(int, input().split())
+cards = list(map(int, input().split()))
+
+for i in list(combinations(cards, 3)):
+    i = sum(i)
+    if m >= i and i > ans:
+        ans = i
+
+print(ans)
